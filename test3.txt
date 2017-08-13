@@ -1,2 +1,0 @@
-new test3.txt
-update1 test3.txt
